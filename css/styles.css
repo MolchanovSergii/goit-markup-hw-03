@@ -338,12 +338,15 @@ footer .logo-text-secondary {
     justify-content: center;
     margin-top: -24px;
     margin-bottom: 72px;
+    
 }
+
 
 .link-item {
     margin-right: 24px;
     margin-bottom: 48px;
-    border-bottom: 1px solid #000;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
+    
 }
 
 .link-item:nth-child(3n) {
@@ -395,6 +398,7 @@ footer .logo-text-secondary {
     letter-spacing: 0.02em;
     color: #2E2F42;
     margin-bottom: 8px;
+    padding-left: 16px;
 }
 
 .portfolio-description {
@@ -402,7 +406,8 @@ footer .logo-text-secondary {
     line-height: 1.5;   
     letter-spacing: 0.02em; 
     color: #434455;
-    margin-bottom: 32px;   
+    margin-bottom: 32px; 
+    padding-left: 16px;  
 }
 /* ==================== /MAIN ==================== */
 
