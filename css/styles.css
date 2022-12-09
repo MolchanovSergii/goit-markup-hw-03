@@ -175,6 +175,7 @@ header .logo-text-secondary {
     padding: 16px 32px;
     margin-bottom: 88px;
     border: 1px solid transparent;
+    border-radius: 4px;
 }
 
 .about {
@@ -346,8 +347,8 @@ footer .logo-text-secondary {
     margin-right: 24px;
     margin-bottom: 48px;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
-    
 }
+
 
 .link-item:nth-child(3n) {
     margin-right: 0;
@@ -374,6 +375,7 @@ footer .logo-text-secondary {
     background: #F4F4FD;
     border: 1px solid #E7E9FC;
     padding: 12px 24px;
+    border-radius: 4px;
 }
 
 .portfolio-btn:hover,
@@ -398,7 +400,7 @@ footer .logo-text-secondary {
     letter-spacing: 0.02em;
     color: #2E2F42;
     margin-bottom: 8px;
-    padding-left: 16px;
+    padding-left: 16px;   
 }
 
 .portfolio-description {
