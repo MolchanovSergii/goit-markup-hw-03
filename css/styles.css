@@ -134,6 +134,7 @@ header .logo-text-secondary {
     padding-bottom: 24px;
 }
 
+.current,
 .header-link:hover,
 .header-link:focus,
 .header-mail:hover,
@@ -297,14 +298,16 @@ header .logo-text-secondary {
 
 footer {
     background: #2E2F42;   
-    width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 0 auto;
+}
+
+.footer-wrapper {
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+
 }
 
 footer .logo {
-    padding-top: 100px;
     margin-bottom: 16px;
     display: block;
 }
@@ -319,9 +322,7 @@ footer .logo-text-secondary {
     letter-spacing: 0.02em;
     color: #E7E9FC;
     width: 264px;
-    height: 72px;
     display: block;
-    padding-bottom: 100px;
 }
 
 /* ==================== /FOOTER ==================== */
@@ -349,6 +350,9 @@ footer .logo-text-secondary {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
+.cards-wrapper {
+    border-bottom: 0.5px solid #F4F4FD;
+}
 
 .link-item:nth-child(3n) {
     margin-right: 0;
@@ -416,4 +420,4 @@ footer .logo-text-secondary {
 
 
 
-/* PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO */
+/* PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO*/
